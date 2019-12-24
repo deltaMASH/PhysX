@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/PxShared/include",
+                "${workspaceFolder}/PxShared/src/foundation/include",
+                "${workspaceFolder}/PhysX_3.4/Include",
+                "${workspaceFolder}/PhysX_3.4/Samples/SampleFramework/framework/include",
+                "${workspaceFolder}/PhysX_3.4/Samples/SampleFramework/renderer/include",
+                "${workspaceFolder}/PhysX_3.4/Samples/SampleFramework/platform/include",
+                "${workspaceFolder}/PhysX_3.4/Samples/SampleBase"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang"
+        }
+    ],
+    "version": 4
+}
